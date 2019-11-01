@@ -43,6 +43,7 @@
 #include <stdlib.h>
 #include <dlfcn.h>
 #include <math.h>
+#include <pthread.h>
 #include <unistd.h>
 #include <cutils/properties.h>
 #include "audio_extn.h"

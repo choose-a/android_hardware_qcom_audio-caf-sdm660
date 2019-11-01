@@ -45,6 +45,7 @@
 */
 #include <stdlib.h>
 #include <dirent.h>
+#include <pthread.h>
 #include <unistd.h>
 #include <fcntl.h>
 #include <sys/stat.h>

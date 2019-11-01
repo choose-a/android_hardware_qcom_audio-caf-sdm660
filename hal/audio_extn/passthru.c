@@ -34,6 +34,8 @@
 #include <cutils/str_parms.h>
 #include <cutils/log.h>
 #include <unistd.h>
+#include <pthread.h>
+#include <unistd.h>
 #include "audio_hw.h"
 #include "audio_extn.h"
 #include "platform_api.h"
